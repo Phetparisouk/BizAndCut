@@ -1,9 +1,9 @@
 <?php
 
 return [
-    '.1_NativeFileSessionHandler~g320qyE' => true,
-    '.1_~UZnuS5j' => true,
-    '.2_~UZnuS5j' => true,
+    '.1_NativeFileSessionHandler~2DWm3YH' => true,
+    '.1_~lSJm71.' => true,
+    '.2_~lSJm71.' => true,
     '.cache_connection.GD_MSZC' => true,
     '.cache_connection.JKE6keX' => true,
     '.service_locator.3TLJ8AE' => true,
